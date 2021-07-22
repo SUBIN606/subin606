@@ -1,6 +1,7 @@
 <div align="center">  
   <h3>Hi! 👋</h3>
-  <p>신입 개발자 <b>이수빈</b> 입니다. <a href="https://gaemi606.tistory.com/" target="_blank">블로그</a>를 운영하고 있습니다.</p>
+  <p>신입 개발자 <b>이수빈</b> 입니다.</p>
+<!--     <a href="https://gaemi606.tistory.com/" target="_blank">블로그</a>를 운영하고 있습니다.</p> -->
   
   <h3>contact</h3>
   <a href="mailto:gaemilee606@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
